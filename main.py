@@ -17,7 +17,6 @@ from sklearn.model_selection import train_test_split, GridSearchCV, RandomizedSe
 from sklearn.feature_selection import f_regression, chi2,  SelectKBest
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
-from xgboost import XGBRegressor
 from sklearn.feature_selection import SelectFromModel
 import joblib
 
