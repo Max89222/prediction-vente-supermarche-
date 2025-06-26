@@ -62,6 +62,6 @@ Ceux ci vous permettront par la suite de pouvoir utiliser le modèle (faire des 
 
 Ce projet a une visée éducative et ne prétend pas à une application réelle. L'objectif est d’évaluer la qualité du code et la logique algorithmique.
 
-6) Idées d'amélioration et contributions
+## 6) Idées d'amélioration et contributions
 De nombreux points restent à améliorer. N'hésitez pas à contribuer à ce projet ou à proposer des idées d'optimisation !
 
